@@ -73,6 +73,30 @@
   margin-bottom: 10px;
 }
 
+.social-blocks {
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.social-block {
+  padding: 1rem;
+  background-color: #00acee;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  color: white;
+  border-radius: 2rem;
+  transition: 0.5s;
+  cursor: pointer;
+  text-decoration: none;
+}
+
+.social-block:hover {
+  background-color: rgb(58, 114, 160) !important;
+}
+
 @media screen and (max-width: 480px) {
   .a {
     flex-direction: column;

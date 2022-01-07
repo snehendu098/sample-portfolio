@@ -17,7 +17,9 @@ const Intro = () => {
             </div>
           </div>
           <p className="i-desc">
-            I am a student by proffession and a programmer by passion
+            I am Snehendu Roy, 15 years old, currently on blockchain
+            developement. I tweet and write blogs about web 3, programming and
+            productivity.
           </p>
         </div>
         <svg
