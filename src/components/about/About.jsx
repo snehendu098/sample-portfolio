@@ -56,7 +56,7 @@ const About = () => {
           <a
             className="social-block"
             style={{ backgroundColor: "#e0a941" }}
-            href=""
+            href="https://blogs.snehenduroy.in/"
             target={"_blank"}
           >
             <AiOutlineRead
