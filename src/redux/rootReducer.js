@@ -1,4 +1,4 @@
-const initialState = { darkMode: false };
+const initialState = { darkMode: true };
 
 const rootReducer = (state = initialState, action) => {
   switch (action.type) {

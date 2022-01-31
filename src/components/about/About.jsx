@@ -28,6 +28,7 @@ const About = () => {
             className="social-block"
             href="https://twitter.com/snehendu_roy_"
             target={"_blank"}
+            rel="noreferrer"
           >
             <AiOutlineTwitter
               style={{
@@ -43,6 +44,7 @@ const About = () => {
             style={{ backgroundColor: "#171515" }}
             href="https://github.com/snehendu098"
             target={"_blank"}
+            rel="noreferrer"
           >
             <AiFillGithub
               style={{
@@ -58,6 +60,7 @@ const About = () => {
             style={{ backgroundColor: "#e0a941" }}
             href="https://blogs.snehenduroy.in/"
             target={"_blank"}
+            rel="noreferrer"
           >
             <AiOutlineRead
               style={{
